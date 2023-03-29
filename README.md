@@ -1,2 +1,2 @@
-# K-nn-Classifier
-working dataset with k-nn claaifier
+#Classifier
+working dataset with k-nn classifier, K-mean classifier
